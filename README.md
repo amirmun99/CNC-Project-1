@@ -1,4 +1,4 @@
-2# CNC-Project-1
+# CNC-Project-1
 3 Axis Machining Project utilizing both 2D and 3D Toolpaths on a HAAS VF2. Designed and drawn in Solidworks. Programmed in Mastercam. 
 
 This project was done in 2 operations, one per side of the block. Starting with a 2x2x4" rough stock of 1030 CRS. Tolerances are shown in the drawings.
